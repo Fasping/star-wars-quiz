@@ -1,0 +1,261 @@
+{
+  "easy": [
+    {
+      "question": "Who is Luke Skywalker's father?",
+      "options": ["Obi-Wan Kenobi", "Han Solo", "Darth Vader", "Yoda"],
+      "answer": "Darth Vader"
+    },
+    {
+      "question": "What is the name of Han Solo's ship?",
+      "options": ["TIE Fighter", "X-wing", "Death Star", "Millennium Falcon"],
+      "answer": "Millennium Falcon"
+    },
+    {
+      "question": "What is the name of the desert planet where Luke Skywalker grew up?",
+      "options": ["Tatooine", "Hoth", "Coruscant", "Naboo"],
+      "answer": "Tatooine"
+    },
+    {
+      "question": "Who is the leader of the Rebel Alliance?",
+      "options": ["Princess Leia", "Grand Moff Tarkin", "Emperor Palpatine", "Darth Vader"],
+      "answer": "Princess Leia"
+    },
+    {
+      "question": "What is the name of the Wookiee who is Chewbacca's best friend?",
+      "options": ["BB-8", "R2-D2", "C-3PO", "Han Solo"],
+      "answer": "Han Solo"
+    },
+    {
+      "question": "What is the name of the bounty hunter who captures Han Solo in The Empire Strikes Back?",
+      "options": ["Jango Fett", "Boba Fett", "IG-88", "Dengar"],
+      "answer": "Boba Fett"
+    },
+    {
+      "question": "What is the name of the Jedi master who trains Luke Skywalker?",
+      "options": ["Obi-Wan Kenobi", "Mace Windu", "Yoda", "Ki-Adi-Mundi"],
+      "answer": "Yoda"
+    },
+    {
+      "question": "What is the name of the planet where the Death Star was destroyed in A New Hope?",
+      "options": ["Endor", "Yavin", "Bespin", "Dagobah"],
+      "answer": "Yavin"
+    },
+    {
+      "question": "What is the name of the bounty hunter who works with Darth Vader to capture Han Solo in The Empire Strikes Back?",
+      "options": ["Dengar", "Bossk", "Zuckuss", "4-LOM"],
+      "answer": "Boba Fett"
+    },
+    {
+      "question": "What is the name of the desert-dwelling species that Jabba the Hutt belongs to?",
+      "options": ["Hutts", "Tusken Raiders", "Jawas", "Sand People"],
+      "answer": "Hutts"
+    }
+  ],
+  "medium": [
+    {
+      "question": "Who played the character of Rey in Star Wars sequel trilogy?",
+      "options": [
+        "Daisy Ridley",
+        "Felicity Jones",
+        "Natalie Portman",
+        "Keira Knightley"
+      ],
+      "answer": "Daisy Ridley"
+    },
+    {
+      "question": "What is the name of the creature that Jabba the Hutt kept as his pet?",
+      "options": [
+        "Rancor",
+        "Dianoga",
+        "Sarlacc",
+        "Krayt Dragon"
+      ],
+      "answer": "Rancor"
+    },
+    {
+      "question": "What is the name of the Imperial pilot who defected to the Rebel Alliance?",
+      "options": [
+        "Bodhi Rook",
+        "Wedge Antilles",
+        "Jek Porkins",
+        "Biggs Darklighter"
+      ],
+      "answer": "Bodhi Rook"
+    },
+    {
+      "question": "What planet did Obi-Wan Kenobi live on in exile after the fall of the Jedi Order?",
+      "options": [
+        "Tatooine",
+        "Jakku",
+        "Naboo",
+        "Hoth"
+      ],
+      "answer": "Tatooine"
+    },
+    {
+      "question": "What is the name of the captain of the Millennium Falcon?",
+      "options": [
+        "Lando Calrissian",
+        "Han Solo",
+        "Chewbacca",
+        "Boba Fett"
+      ],
+      "answer": "Han Solo"
+    },
+    {
+      "question": "What is the name of the organization that created the clone army?",
+      "options": [
+        "The Galactic Senate",
+        "The Trade Federation",
+        "The Separatist Alliance",
+        "The Kaminoans"
+      ],
+      "answer": "The Kaminoans"
+    },
+    {
+      "question": "What is the name of the bounty hunter who was hired by Darth Vader to track down the Millennium Falcon?",
+      "options": [
+        "IG-88",
+        "Bossk",
+        "Dengar",
+        "Boba Fett"
+      ],
+      "answer": "Boba Fett"
+    },
+    {
+      "question": "What is the name of the planet that was destroyed by the Death Star in A New Hope?",
+      "options": [
+        "Yavin IV",
+        "Alderaan",
+        "Dantooine",
+        "Coruscant"
+      ],
+      "answer": "Alderaan"
+    },
+    {
+      "question": "What is the name of the bounty hunter who wore Mandalorian armor and was a member of the bounty hunter guild?",
+      "options": [
+        "Jango Fett",
+        "Cad Bane",
+        "Embo",
+        "Boba Fett"
+      ],
+      "answer": "Boba Fett"
+    },
+    {
+      "question": "What is the name of the planet that Luke Skywalker is from?",
+      "options": [
+        "Tatooine",
+        "Jakku",
+        "Naboo",
+        "Hoth"
+      ],
+      "answer": "Tatooine"
+    }
+  ],
+  "hard": [
+    {
+  "question": "What is the name of the ancient Sith Lord who created the Rule of Two?",
+  "options": [
+    "Darth Bane",
+    "Darth Plagueis",
+    "Darth Revan",
+    "Darth Malak"
+  ],
+  "answer": "Darth Bane"
+},
+{
+  "question": "What was the name of the planet that was destroyed by the Death Star in A New Hope?",
+  "options": [
+    "Alderaan",
+    "Coruscant",
+    "Tatooine",
+    "Endor"
+  ],
+  "answer": "Alderaan"
+},
+{
+  "question": "What was the name of the bounty hunter who captured Han Solo?",
+  "options": [
+    "Boba Fett",
+    "IG-88",
+    "Dengar",
+    "Bossk"
+  ],
+  "answer": "Boba Fett"
+},
+{
+  "question": "What was the name of the imperial officer who oversaw the construction of the Death Star?",
+  "options": [
+    "Grand Moff Tarkin",
+    "Admiral Piett",
+    "General Veers",
+    "Captain Needa"
+  ],
+  "answer": "Grand Moff Tarkin"
+},
+{
+  "question": "What was the name of the young Padawan who was trained by Qui-Gon Jinn and later became a Sith Lord?",
+  "options": [
+    "Obi-Wan Kenobi",
+    "Anakin Skywalker",
+    "Mace Windu",
+    "Count Dooku"
+  ],
+  "answer": "Anakin Skywalker"
+},
+{
+  "question": "What was the name of the Ewok who helped the rebels destroy the shield generator on Endor?",
+  "options": [
+    "Wicket",
+    "Chirpa",
+    "Logray",
+    "Paploo"
+  ],
+  "answer": "Wicket"
+},
+{
+  "question": "What was the name of the bounty hunter who was hired by Darth Vader to track down Han Solo and the Millennium Falcon?",
+  "options": [
+    "Bossk",
+    "IG-88",
+    "Dengar",
+    "Zuckuss"
+  ],
+  "answer": "Boba Fett"
+},
+{
+  "question": "What was the name of the Jedi Master who served on the Jedi Council and was killed by Darth Sidious in Revenge of the Sith?",
+  "options": [
+    "Mace Windu",
+    "Yoda",
+    "Ki-Adi-Mundi",
+    "Kit Fisto"
+  ],
+  "answer": "Mace Windu"
+},
+{
+  "question": "What was the name of the smuggler who owned the Millennium Falcon before Han Solo?",
+  "options": [
+    "Lando Calrissian",
+    "Jabba the Hutt",
+    "Dash Rendar",
+    "Greedo"
+  ],
+  "answer": "Lando Calrissian"
+},
+{
+  "question": "What was the name of the stormtrooper who refused to execute Order 66 in Revenge of the Sith?",
+  "options": [
+    "FN-2187",
+    "CT-7567",
+    "CC-2224",
+    "CT-5555"
+  ],
+  "answer": "CT-5555"
+}
+
+
+
+  ]
+}
